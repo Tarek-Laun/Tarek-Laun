@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tarek-Laun
 - 👀 I’m interested in Game Development and Game Engine Development
-- 🌱 I’m currently learning C++ and OpenGL
-- 💻 I am also currently working on a mobile and PC game using my own game engine.
+- 🌱 I’m currently learning C++ and Vulkan
+- 💻 I am also currently working on a PC game using my own game engine.
