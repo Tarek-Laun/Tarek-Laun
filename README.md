@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Tarek-Laun
-- 👀 I’m interested in Game Development and Game Engine Development
-- 🌱 I’m currently learning C++, OpenXR and Vulkan
-- 💻 I am also currently working on a PC game using my own game engine
+- 👀 I’m interested in Game Engine Development and Web Development
+- 🌱 I’m currently learning C++, Metal, NestJS and React
